@@ -12,3 +12,8 @@ Also For Logs, you need to add this in qb-smallresources/server/logs.lua
 ```
     ['blackmarket'] = '',
 ```
+
+# Dependencies / NECESARIO:
+- qb-core - https://github.com/qbcore-framework/qb-core
+- qb-target - https://github.com/qbcore-framework/qb-target
+- qb-menu - https://github.com/qbcore-framework/qb-menu
