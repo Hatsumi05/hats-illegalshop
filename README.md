@@ -1,5 +1,5 @@
 # hats-illegalshop
-Illegal Blackmarket QBCore Fivem Script with item
+Illegal Blackmarket QBCore Fivem Script where you can pay with an item
 
 Credits for the original script: https://github.com/MT-Scripts/mt-blackmarket
 I only changed the code
